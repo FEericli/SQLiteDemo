@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SQLiteDemo</string>
+
+    <string name="strInputId">請輸入ID (更新/刪除用)</string>
+    <string name="strInputName">請輸入姓名</string>
+    <string name="strInputLevel">請輸入等級</string>
+    <string name="strInsert">新增</string>
+    <string name="strDelete">刪除</string>
+    <string name="strUpdate">更新</string>
+    <string name="strQuery">查詢</string>
+
+    <string name="strQueryResult">查詢資料顯示區。</string>
+    <string name="strCheckValue">請確認必要參數已輸入！</string>
+
+    <string name="strInsertSuccess">新增成功</string>
+    <string name="strInsertFail">新增失敗</string>
+
+    <string name="strUpdateSuccess">更新成功</string>
+    <string name="strUpdateFail">更新失敗</string>
+
+    <string name="strDeleteSuccess">刪除成功</string>
+    <string name="strDeleteFail">刪除失敗</string>
+
+</resources>
